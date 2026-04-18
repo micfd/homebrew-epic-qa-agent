@@ -1,6 +1,6 @@
 cask "epic-qa-agent" do
-  version "0.2.4"
-  sha256 "d0d6ae550f1873172dfe858e2c18380aa322a26269b9a0e7c812b5634e47bc20"
+  version "0.2.5"
+  sha256 "fa290eac592e63b6a434c81400fa40503ce2e6e03b1d38ec61b8e041bb1ace8f"
 
   url "https://epic-qa-prod-2b6d4032.s3.us-east-1.amazonaws.com/releases/v#{version}/epic-qa-agent-v#{version}.dmg"
   name "Epic QA Agent"
